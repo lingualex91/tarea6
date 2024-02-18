@@ -1,0 +1,17 @@
+[
+    {
+        "hotel_id": "005",
+        "name": "Test Hotel for Reservation",
+        "location": "Test Location for Reservation",
+        "rooms": [
+            {
+                "room_id": "101",
+                "type": "Single",
+                "price": 100
+            }
+        ],
+        "amenities": [
+            "WiFi"
+        ]
+    }
+]

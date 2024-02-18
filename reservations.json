@@ -1,0 +1,10 @@
+[
+    {
+        "reservation_id": "R001",
+        "customer_id": "C001",
+        "hotel_id": "H001",
+        "room_id": "101",
+        "start_date": "2024-01-01",
+        "end_date": "2024-01-07"
+    }
+]
